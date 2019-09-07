@@ -27,6 +27,7 @@ projects:
     forks: true
     projects:
       - taylorcaton.github.io2
+      - react-blog-test
 
 social_media:
   # behance: your_username
